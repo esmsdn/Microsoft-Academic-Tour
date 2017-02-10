@@ -6,6 +6,8 @@ Aquí podrás encontrar todos los recursos utilizados durante el Microsoft Acade
 [Video](https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microsoft-Academic-Tour/Microsoft-Academic-Tour-Xamarin-Is-Coming) / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Xamarin%20is%20Coming.pdf)
 ### Internet Of the Things
 [Video](https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microsoft-Academic-Tour/Microsoft-Academic-Tour-NarIoTs) / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/The%20Internet%20Of%20the%20Things.pdf)
+### NarcIoTs
+[Video]() *proximamente* / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/NarcIoTs.pdf) *proximamente*
 ### Bots of Anarchy
 [Video](https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microsoft-Academic-Tour/Microsoft-Academic-Tour-Bots-of-Anarchy) / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Bots%20of%20Anarchy.pdf) 
 ### Conviértete en un ninja del aula 
@@ -13,6 +15,6 @@ Aquí podrás encontrar todos los recursos utilizados durante el Microsoft Acade
 ### The Big Cloud Theory
 [Video]() *proximamente* / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Microsoft%20Azure.pdf) 
 ### Workshop Xamarin is Coming 
-[Requisitos](https://aka.ms/workshopxamarinazure) / [Instrucciones](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) 
+[Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Workshop%20Xamarin.pdf) / [Requisitos](https://aka.ms/workshopxamarinazure) / [Instrucciones](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) 
 
 ¿Quieres saber más? Visita nuestra [página web](http://aka.ms/MSAcademicTour)
