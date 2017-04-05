@@ -15,6 +15,6 @@ Aquí podrás encontrar todos los recursos utilizados durante el Microsoft Acade
 ### The Big Cloud Theory
 [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Microsoft%20Azure.pdf) 
 ### Workshop Xamarin is Coming 
-[Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Workshop%20Xamarin.pdf) / [Requisitos](https://aka.ms/workshopxamarinazure) / [Instrucciones](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) 
+[Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Workshop%20Xamarin.pdf) / [Requisitos](https://github.com/esmsdn/Workshops/tree/master/XamarinIsComing) / [Instrucciones](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) 
 
 ¿Quieres saber más? Visita nuestra [página web](http://aka.ms/MSAcademicTour)
