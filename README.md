@@ -13,7 +13,7 @@ Aquí podrás encontrar todos los recursos utilizados durante el Microsoft Acade
 ### Conviértete en un ninja del aula 
 [Video](https://channel9.msdn.com/Events/Microsoft-Spain-Events/Microsoft-Academic-Tour/Microsoft-Academic-Tour-Productividad-Office-365)
 ### The Big Cloud Theory
-[Video]() *proximamente* / [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Microsoft%20Azure.pdf) 
+[Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Microsoft%20Azure.pdf) 
 ### Workshop Xamarin is Coming 
 [Recursos](https://github.com/esmsdn/Microsoft-Academic-Tour/blob/master/Workshop%20Xamarin.pdf) / [Requisitos](https://aka.ms/workshopxamarinazure) / [Instrucciones](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab) 
 
